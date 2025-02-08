@@ -94,3 +94,6 @@ This project is distributed under the [MIT](LICENSE) license.
 ---
 
 Thank you for checking out this project! If you have any questions or suggestions, feel free to contact me.
+
+> [!IMPORTANT]
+This project was developed by: **Victor Sanchez**.
